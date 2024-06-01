@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "name": "Amount",
+            "type": "amount",
+            "discount": 50
+        },
+        {
+            "name": "Percentage",
+            "type": "percentage",
+            "discount": 10
+        },
+        {
+            "name": "Clothing",
+            "type": "clothing",
+            "discount": 15
+        },
+        {
+            "name": "Points",
+            "type": "points",
+            "discount": 20
+        },
+        {
+            "name": "Every",
+            "type": "every",
+            "discount": 40
+        }
+    ]
+}
