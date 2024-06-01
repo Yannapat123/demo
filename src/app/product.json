@@ -1,0 +1,41 @@
+{
+    "point": 68,
+    "data": [
+        {
+            "id": 1,
+            "name": "t-shirt",
+            "category": "clothing",
+            "price": 350
+        },
+        {
+            "id": 2,
+            "name": "hat",
+            "category": "clothing",
+            "price": 250
+        },
+        {
+            "id": 3,
+            "name": "hoodie",
+            "category": "clothing",
+            "price": 700
+        },
+        {
+            "id": 4,
+            "name": "watch",
+            "category": "electronics",
+            "price": 850
+        },
+        {
+            "id": 5,
+            "name": "bag",
+            "category": "accessories",
+            "price": 640
+        },
+        {
+            "id": 6,
+            "name": "belt",
+            "category": "accessories",
+            "price": 230
+        }
+    ]
+}
